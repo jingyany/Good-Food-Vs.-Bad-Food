@@ -5,6 +5,7 @@
       - Ridge regression
       - LASSO
   2. Classification
+      - Logistic Regression
       - Decision tree
       - Random forest
       - Gradient Boosted Regression Trees (Gradient Boosting Machines)
