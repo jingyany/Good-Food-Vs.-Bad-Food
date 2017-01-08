@@ -1,4 +1,5 @@
-# Good-Food-Vs.-Bad-Food
+# Predicting World Food Nutrition Scores
+###  Machine learning algorithms:
   1. Regression
       - Linear regression
       - Ridge regression
